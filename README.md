@@ -8,7 +8,7 @@
 Bem vinda(o) ao meu perfil!
 
 Moro em Belo Horizonte &#127751; e adoro me [conectar](https://www.linkedin.com/in/carolina-vasconcelos-pinheiro/)!
-Sou apaixonada pro explorar conhecimentos, tenho formação em humanidades e atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/).
+Sou apaixonada por explorar conhecimentos, tenho formação em Ciências Humanas e Turismo e atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/).
 
   
 &#128215; Entendo que a formação de um profissional em tecnologia é um processo de contínua evolução
